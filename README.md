@@ -1,17 +1,10 @@
 ### Hi there 👋
-<sytle>
-.version {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-</style>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=a-lamloum&style=flat-square&color=blue" alt="" class="version"/>
+<img src="https://komarev.com/ghpvc/?username=a-lamloum&style=flat-square&color=blue" alt="" align="center"/>
 
 <!-- <div id="badges" width="100">
   <a href="your-linkedin-URL">
