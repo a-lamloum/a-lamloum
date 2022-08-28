@@ -2,9 +2,9 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+  <img src="https://komarev.com/ghpvc/?username=a-lamloum&style=flat-square&color=blue"/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=a-lamloum&style=flat-square&color=blue" alt="" align="center"/>
 
 <!-- <div id="badges" width="100">
   <a href="your-linkedin-URL">
