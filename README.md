@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=a-lamloum&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=a-lamloum&style=flat-square&color=blue" alt="" style="text-align:center;"/>
 
 <!-- <div id="badges" width="100">
   <a href="your-linkedin-URL">
