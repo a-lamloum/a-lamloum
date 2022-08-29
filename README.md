@@ -1,10 +1,15 @@
 
 <div id="header" align="center">
-	  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/><br>
-	  <img src="https://komarev.com/ghpvc/?username=a-lamloum&style=flat-square&color=blue"/>
+	 <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/><br>
+	 <img src="https://komarev.com/ghpvc/?username=a-lamloum&style=flat-square&color=blue"/>
 	 <a href="https://a-lamloum.github.io/react-portfolio/" target="_blank">
-		  <img src="https://img.shields.io/badge/Portfolio-Link-red?style=flat-square&logo=appveyor"/>
-		  </a>
+		 <img src="https://img.shields.io/badge/Portfolio-Link-red?style=flat-square&logo=appveyor"/>
+	 </a>
+	 <a href="https://www.buymeacoffee.com/ahlamloum" target="_blank">
+		<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+	 </a>
+	 https://www.buymeacoffee.com/ahlamloum
+	 
 </div>
 
 ## Hi there 👋 I'm Ahmed Lamloum
