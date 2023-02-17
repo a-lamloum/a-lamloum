@@ -43,7 +43,7 @@ I'm using HTML, CSS, and a little JavaScript to make beautiful websites. 🎨
 
 ---
 
-### 🤔 I’m looking for part-time job
+### 🤔 I’m looking for a part-time job
 <div align="center">
 <!-- <img src="https://media.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif" width=50%/> -->
 
