@@ -41,7 +41,7 @@ I'm using HTML, CSS, and a little JavaScript to make beautiful websites. 🎨
 	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="TypeScript"/>
 </div>
 
----
+<!-- --- -->
 
 <!-- ### 🤔 I’m looking for a part-time job -->
 <!-- <div align="center"> -->
@@ -49,7 +49,7 @@ I'm using HTML, CSS, and a little JavaScript to make beautiful websites. 🎨
 
 <!-- </div> -->
 
------------
+<!-- ----------- -->
 
 ### 📫 How to reach me
 
