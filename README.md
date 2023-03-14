@@ -43,11 +43,11 @@ I'm using HTML, CSS, and a little JavaScript to make beautiful websites. 🎨
 
 ---
 
-### 🤔 I’m looking for a part-time job
-<div align="center">
+<!-- ### 🤔 I’m looking for a part-time job -->
+<!-- <div align="center"> -->
 <!-- <img src="https://media.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif" width=50%/> -->
 
-</div>
+<!-- </div> -->
 
 -----------
 
@@ -67,10 +67,10 @@ I'm using HTML, CSS, and a little JavaScript to make beautiful websites. 🎨
 </div>
 <br>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-lamloum&show_icons=true&locale=de&layout=compact&theme=radical" alt="a-lamloum" /></p>  
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-lamloum&show_icons=true&locale=de&layout=compact&theme=radical" alt="a-lamloum" /></p>  
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-lamloum&show_icons=true&locale=de&theme=radical" alt="a-lamloum" /></p>  
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-lamloum&theme=radical" alt="a-lamloum" /></p>
   
-
+ -->
