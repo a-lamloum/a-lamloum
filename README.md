@@ -11,7 +11,7 @@
 </div>
 
 ## Hi there 👋 I'm Ahmed Lamloum
-I am studying bioinformatics at the University of Saarland, but I like working in web development and want to learn more by doing. Also, I want to get the opportunity to continue in this field as a permanent area of work.
+I am studying bioinformatics at the University of Saarland.
  
 I'm using HTML, CSS, and a little JavaScript to make beautiful websites. 🎨
 
