@@ -5,9 +5,7 @@
 	 <a href="https://a-lamloum.github.io/react-portfolio/" target="_blank">
 		 <img src="https://img.shields.io/badge/Portfolio-Link-red?style=flat-square&logo=appveyor"/>
 	 </a>
-	 <a href="https://www.buymeacoffee.com/ahlamloum" target="_blank">
-		<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black"/>
-	 </a>	 
+	 
 </div>
 
 ## Hi there 👋 I'm Ahmed Lamloum
